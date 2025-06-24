@@ -3405,7 +3405,6 @@ PRODUCT_PACKAGES += \
     MotCamera3AI \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
-    MotCamera4 \
     MotorolaSettingsProvider \
     com.motorola.motosignature \
     moto-core_services \
