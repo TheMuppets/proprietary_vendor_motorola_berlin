@@ -3411,6 +3411,5 @@ PRODUCT_PACKAGES += \
     moto-core_services \
     moto-settings \
     com.android.hotwordenrollment.common.util \
-    STFlashTool \
     motorola.hardware.camera.desktop@2.0-service \
     motsettings
